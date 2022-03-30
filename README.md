@@ -49,7 +49,7 @@
    可自行設定行數之類的。
 
 3. 寫作操作文件。利用 HTML 說明如何使用本程式。
-
+https://dkmsfire.github.io/randomPassword/
 
 
 
