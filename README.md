@@ -1,5 +1,4 @@
 # 《前情提要》
-
 好密碼的條件：愈長、愈亂、愈與個人資料無關。問題是，這樣子的密碼會不會就愈記不住？
 
 怎麼辦呢？參考 http://ppt.cc/rELO 寫了一支亂數產生器
@@ -18,6 +17,7 @@
 10: 1990694015 <br>
 
 接著使用如信用卡號 1331-6218-3262-7343，  
+
 並兩個號碼一組  
 
 13 31 62 18 32 62 73 43
@@ -28,10 +28,11 @@
 可以得到一串亂數93481429，也就是我們的密碼。
 
 以後就只需記得一開始的亂數種子加上卡號  
-https://dkmsfire.github.io/randomPassword/  
+
 需要用到密碼時再回到我們的亂數密碼產生器就可以得到密碼了。  
+
+# 《亂數密碼產生器》
+https://dkmsfire.github.io/randomPassword/  
 
 # 《參考資料》
 http://davidbau.com/archives/2010/01/30/random_seeds_coded_hints_and_quintillions.html
-
-"# randomPassword" 
