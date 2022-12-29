@@ -32,7 +32,7 @@
 需要用到密碼時再回到我們的亂數密碼產生器就可以得到密碼了。  
 
 # 《亂數密碼產生器》
-https://dkmsfire.github.io/randomPassword/  
+https://buzzshu.github.io/randomPassword/  
 
 # 《參考資料》
 http://davidbau.com/archives/2010/01/30/random_seeds_coded_hints_and_quintillions.html
